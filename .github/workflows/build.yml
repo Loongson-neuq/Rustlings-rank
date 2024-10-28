@@ -25,7 +25,8 @@ jobs:
       - name: Fetch latest ranking
         env:
           GITHUB_TOKEN: ${{ secrets.RUSTLINGS_GITHUB_TOKEN }}
-          RUSTINGS_ASSIGNMENT_ID: ${{ secrets.RUSTINGS_ASSIGNMENT_ID }}
+          # The secret is a typo, but i don't want to change it
+          RUSTLINGS_ASSIGNMENT_ID: ${{ secrets.RUSTINGS_ASSIGNMENT_ID }}
         run: |
           chmod +x LoongsonNeuq.RustlingsRank
           ./LoongsonNeuq.RustlingsRank
