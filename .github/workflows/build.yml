@@ -27,7 +27,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.RUSTLINGS_GITHUB_TOKEN }}
           RUSTINGS_ASSIGNMENT_ID: ${{ secrets.RUSTINGS_ASSIGNMENT_ID }}
         run: |
-          chomd +x LoongsonNeuq.RankingRank
+          chmod +x LoongsonNeuq.RankingRank
           ./LoongsonNeuq.RankingRank
 
       - name: Set git committer
