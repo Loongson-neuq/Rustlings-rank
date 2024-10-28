@@ -15,12 +15,10 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
 
-      - name: Soft reset last commit
-        run: |
-          git reset --soft HEAD~1
+      # - name: Soft reset last commit
+      #   run: |
+      #     git reset --soft HEAD~1
 
       - name: Fetch latest ranking
         env:
