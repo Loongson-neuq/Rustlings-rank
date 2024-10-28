@@ -6,4 +6,6 @@
 
 <!-- Rustlings table START -->
 
+<!-- PlaceHolder -->
+
 <!--Rustlings table END -->
