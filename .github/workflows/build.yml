@@ -1,8 +1,5 @@
 name: Update ranking list
 
-branches:
-    - master
-
 permissions:
   contents: write
 
@@ -46,4 +43,4 @@ jobs:
 
       - name: Force push changes
         run: |
-          git push origin master --force
+          git push origin main --force
