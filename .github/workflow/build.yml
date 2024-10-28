@@ -1,0 +1,49 @@
+name: Update ranking list
+
+branches:
+    - master
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/5 * * * *"  # Run every 5 minutes
+
+jobs:
+  update-list:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Soft reset last commit
+        run: |
+          git reset --soft HEAD~1
+
+      - name: Fetch latest ranking
+        env:
+          GITHUB_TOKEN: ${{ secrets.RUSTLINGS_GITHUB_TOKEN }}
+          RUSTINGS_ASSIGNMENT_ID: ${{ secrets.RUSTINGS_ASSIGNMENT_ID }}
+        run: |
+          chomd +x LoongsonNeuq.RankingRank
+          ./LoongsonNeuq.RankingRank
+
+      - name: Set git committer
+        if: github.ref == 'refs/heads/master'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit changes
+        run: |
+          git add README.md
+          git commit -m "Update Rustlings ranking table"
+
+      - name: Force push changes
+        run: |
+          git push origin master --force
