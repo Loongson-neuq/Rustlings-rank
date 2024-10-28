@@ -27,8 +27,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.RUSTLINGS_GITHUB_TOKEN }}
           RUSTINGS_ASSIGNMENT_ID: ${{ secrets.RUSTINGS_ASSIGNMENT_ID }}
         run: |
-          chmod +x LoongsonNeuq.RankingRank
-          ./LoongsonNeuq.RankingRank
+          chmod +x LoongsonNeuq.RustlingsRank
+          ./LoongsonNeuq.RustlingsRank
 
       - name: Set git committer
         if: github.ref == 'refs/heads/master'
