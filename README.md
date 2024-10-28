@@ -12,7 +12,7 @@
 | <a href="https://github.com/luliqwerty"><img src="https://avatars.githubusercontent.com/u/151127972?v=4" alt="luliqwerty" width="48px" height="48px" /></a> | [luliqwerty](https://github.com/luliqwerty) | 1 | [Loongson-neuq/rustlings-luliqwerty](https://github.com/Loongson-neuq/rustlings-luliqwerty) |
 | <a href="https://github.com/ZhuYitong-debug"><img src="https://avatars.githubusercontent.com/u/159141174?v=4" alt="ZhuYitong-debug" width="48px" height="48px" /></a> | [ZhuYitong-debug](https://github.com/ZhuYitong-debug) | 1 | [Loongson-neuq/rustlings-ZhuYitong-debug](https://github.com/Loongson-neuq/rustlings-ZhuYitong-debug) |
 
-*Last updated at 2024-10-28 13:33:08*
+*Last updated at 2024-10-28 13:33:38*
 
 
 <!-- Rustlings table END -->
