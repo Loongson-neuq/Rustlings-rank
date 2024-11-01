@@ -7,7 +7,7 @@
 <!-- Rustlings table START -->
 | Avatar | Student | Score | Repo |
 |:------:|:--------|:-----:|:-----|
-| <a href="https://github.com/ZhuYitong-debug"><img src="https://avatars.githubusercontent.com/u/159141174?v=4" alt="ZhuYitong-debug" width="48px" height="48px" /></a> | [ZhuYitong-debug](https://github.com/ZhuYitong-debug) | 30 | [Loongson-neuq/rustlings-ZhuYitong-debug](https://github.com/Loongson-neuq/rustlings-ZhuYitong-debug) |
+| <a href="https://github.com/ZhuYitong-debug"><img src="https://avatars.githubusercontent.com/u/159141174?v=4" alt="ZhuYitong-debug" width="48px" height="48px" /></a> | [ZhuYitong-debug](https://github.com/ZhuYitong-debug) | 41 | [Loongson-neuq/rustlings-ZhuYitong-debug](https://github.com/Loongson-neuq/rustlings-ZhuYitong-debug) |
 | <a href="https://github.com/Yttehs-HDX"><img src="https://avatars.githubusercontent.com/u/72240633?v=4" alt="Yttehs-HDX" width="48px" height="48px" /></a> | [Yttehs-HDX](https://github.com/Yttehs-HDX) | 25 | [Loongson-neuq/rustlings-Yttehs-HDX](https://github.com/Loongson-neuq/rustlings-Yttehs-HDX) |
 | <a href="https://github.com/Cai1Hsu"><img src="https://avatars.githubusercontent.com/u/47081443?v=4" alt="Cai1Hsu" width="48px" height="48px" /></a> | [Cai1Hsu](https://github.com/Cai1Hsu) | 23 | [Loongson-neuq/rustlings-Cai1Hsu](https://github.com/Loongson-neuq/rustlings-Cai1Hsu) |
 | <a href="https://github.com/MRMY000"><img src="https://avatars.githubusercontent.com/u/155539315?v=4" alt="MRMY000" width="48px" height="48px" /></a> | [MRMY000](https://github.com/MRMY000) | 2 | [Loongson-neuq/rustlings-MRMY000](https://github.com/Loongson-neuq/rustlings-MRMY000) |
@@ -15,7 +15,7 @@
 | <a href="https://github.com/wakaise"><img src="https://avatars.githubusercontent.com/u/157258516?v=4" alt="wakaise" width="48px" height="48px" /></a> | [wakaise](https://github.com/wakaise) | 1 | [Loongson-neuq/rustlings-wakaise](https://github.com/Loongson-neuq/rustlings-wakaise) |
 | <a href="https://github.com/luliqwerty"><img src="https://avatars.githubusercontent.com/u/151127972?v=4" alt="luliqwerty" width="48px" height="48px" /></a> | [luliqwerty](https://github.com/luliqwerty) | 1 | [Loongson-neuq/rustlings-luliqwerty](https://github.com/Loongson-neuq/rustlings-luliqwerty) |
 
-*Last updated at 2024-11-01 08:15:00*
+*Last updated at 2024-11-01 08:32:55*
 
 
 <!-- Rustlings table END -->
