@@ -13,10 +13,10 @@
 | <a href="https://github.com/zaychyk"><img src="https://avatars.githubusercontent.com/u/147476066?v=4" alt="zaychyk" width="48px" height="48px" /></a> | [zaychyk](https://github.com/zaychyk) | 1 | [Loongson-neuq/rustlings-zaychyk](https://github.com/Loongson-neuq/rustlings-zaychyk) |
 | <a href="https://github.com/wakaise"><img src="https://avatars.githubusercontent.com/u/157258516?v=4" alt="wakaise" width="48px" height="48px" /></a> | [wakaise](https://github.com/wakaise) | 1 | [Loongson-neuq/rustlings-wakaise](https://github.com/Loongson-neuq/rustlings-wakaise) |
 | <a href="https://github.com/luliqwerty"><img src="https://avatars.githubusercontent.com/u/151127972?v=4" alt="luliqwerty" width="48px" height="48px" /></a> | [luliqwerty](https://github.com/luliqwerty) | 1 | [Loongson-neuq/rustlings-luliqwerty](https://github.com/Loongson-neuq/rustlings-luliqwerty) |
+| <a href="https://github.com/dweeqhd"><img src="https://avatars.githubusercontent.com/u/162990204?v=4" alt="dweeqhd" width="48px" height="48px" /></a> | [dweeqhd](https://github.com/dweeqhd) | 1 | [Loongson-neuq/rustlings-dweeqhd](https://github.com/Loongson-neuq/rustlings-dweeqhd) |
 | <a href="https://github.com/MRMY000"><img src="https://avatars.githubusercontent.com/u/155539315?v=4" alt="MRMY000" width="48px" height="48px" /></a> | [MRMY000](https://github.com/MRMY000) | 1 | [Loongson-neuq/rustlings-MRMY000](https://github.com/Loongson-neuq/rustlings-MRMY000) |
-| <a href="https://github.com/dweeqhd"><img src="https://avatars.githubusercontent.com/u/162990204?v=4" alt="dweeqhd" width="48px" height="48px" /></a> | [dweeqhd](https://github.com/dweeqhd) | 0 | [Loongson-neuq/rustlings-dweeqhd](https://github.com/Loongson-neuq/rustlings-dweeqhd) |
 
-*Last updated at 2024-11-02 06:57:05*
+*Last updated at 2024-11-02 07:09:40*
 
 
 <!-- Rustlings table END -->
